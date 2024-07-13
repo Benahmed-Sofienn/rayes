@@ -1,0 +1,21 @@
+.About{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #2E5E4E;
+    margin:  1%;
+    padding: 1%;
+    border-radius: 10px;
+
+}
+.MapImg {
+    border-radius: 3%;
+    width: 50%;
+}
+.description{
+    font-size: larger;
+    font-weight: 700;
+    color: antiquewhite;
+    margin: 1%;
+    padding: 1%;
+}

@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-content: space-between;
+  
+}
+
+body {
+  background-color: #93A7AA;
+  height: inherit;
+  min-height: 98vh; 
+}
+html {
+  scroll-behavior: smooth;
+}
+
+

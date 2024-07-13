@@ -1,0 +1,107 @@
+
+.services{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  max-width: 1000px;
+  margin: 0px 15%;
+  }
+.peinture {
+  height: 300px;
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content : flex-end;
+  color: #ffffff;
+  text-shadow: 2px 2px #2E5E4E;
+  background-image: url(../../assets/Imgs/peinture.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  border-radius: 10%;
+  margin: 3px ;
+  
+  }
+  
+  .raval {
+    height: 300px;
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content : flex-end;
+    color: #ffffff;
+    text-shadow: 2px 2px #2E5E4E;
+    background-image: url(../../assets/Imgs/raval.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 10%;
+    margin: 3px;
+    }
+
+.plaque {
+  height: 300px;
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content : flex-end;
+  color: #ffffff;
+  text-shadow: 2px 2px #2E5E4E;
+  background-image: url(../../assets/Imgs/platre.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  border-radius: 10%;
+  margin: 3px;
+  }
+  
+  
+.carlage {
+  height: 300px;
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content : flex-end;
+  color: #ffffff;
+  text-shadow: 2px 2px #2E5E4E;
+  background-image: url(../../assets/Imgs/carlage.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  border-radius: 10%;
+  margin: 3px;
+  }
+  
+  
+.electricité {
+  height: 300px;
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content : flex-end;
+  color: #ffffff;
+  text-shadow: 2px 2px #2E5E4E;
+  background-image: url(../../assets/Imgs/electrique.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  border-radius: 10%;
+  margin: 3px;
+  }
+  
+.plomberie {
+  height: 300px;
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content : flex-end;
+  color: #ffffff;
+  text-shadow: 2px 2px #2E5E4E;
+  background-image: url(../../assets/Imgs/plomberie.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  border-radius: 10%;
+  margin: 3px;
+  }
